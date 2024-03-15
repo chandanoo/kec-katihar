@@ -1,2 +1,2 @@
-# kec-katihar
+kec-katihar
 college website 
