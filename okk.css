@@ -1,0 +1,202 @@
+body
+{
+    background-color:skyblue;
+    
+}
+.oo
+{
+width: 100%;
+max-height: fit-content;
+}
+.ok
+{
+    width: 300px;
+  margin: 20px ;
+  font-size: 20px;
+}
+a{
+  
+    padding: 5px;
+}
+ a:link
+{
+    color:hotpink ;
+    
+} 
+ a:visited
+{
+    color: black;
+    
+
+}
+ a:hover
+{
+    color:violet ;
+    background-color: blueviolet;
+    
+
+}
+ a:active
+{
+    color: yellow;
+    background-color:yellowgreen;
+}
+ul li ul li
+{
+display: none;
+}
+.name
+{
+    float: right; 
+  font-size: 20px; 
+  border: 1px;
+list-style: none;
+
+    display: flex;
+   
+}
+
+.name li
+{
+   
+    padding: 10px;
+    
+}
+.name li a{
+    text-decoration: none;
+    
+}
+
+.okkk
+{
+    margin-top:50px ;
+  width: 100%;
+    height: fit-content;
+display: flex;
+list-style: none;
+
+
+}
+.okkk a
+{
+ text-decoration: none;
+ padding: 23px;
+
+
+ 
+ 
+}
+
+
+.okkkk
+{
+    margin: 100px 55px;
+    border-style: solid;
+    width: 500px;
+    height: 1000px;
+    float: left;
+   
+}
+.ch
+{ 
+    
+    padding-left: 150px;
+    font-size: 25px;
+   
+
+}
+.chh
+{
+    margin: 100px middle;
+}
+.chh a 
+{
+font-size: 25px;
+text-decoration: none;
+
+padding:100px ;
+}
+.fun
+{
+    margin: 100px 55px;
+    float: left;
+    background-color:white;
+    border-style: solid;
+    width: 500px;
+    height: 1000px;
+}
+.funn
+{
+    margin:25px 150px ;
+   
+}
+.chandan
+{
+    margin: 100px 55px;
+    float: left;
+    font-size: auto;
+}
+.abc
+{
+   
+    margin: 100px 50px;
+    font-size: 25px;
+
+}
+.abc input{
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.abc button{
+    font-size: 25px;
+    margin-left: 200px;
+}
+.abc h2
+{
+    margin-left: 150px;
+}
+footer
+{
+    background-color:white;
+    height: 215px;
+    width: 100%;
+}
+.ram
+{
+  
+    display: flex;
+ 
+    
+}
+.raushan
+{
+    margin: 20px 100px;
+    
+    width: 250px;
+    display: left;
+}
+.raushan div {
+    font-size: 100px;
+}
+.bro
+{
+    float: right;
+    margin:80px 50px ;
+    width:250px ;
+}
+.t
+{
+    color:black;
+    margin-left: 20px;
+}
+.e 
+{
+    margin-top: 80px;
+    
+}
+.e span
+{
+    margin-left: 30px;
+}
+

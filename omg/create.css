@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin-top: 100px;
+    margin-left: 400px;
+    height: 550px;
+    width: 500px;
+    background-color: skyblue;
+}
+div{
+    margin-left: 100px;
+    padding-top: 50px;
+}
+input{
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+}
+p{
+    font-size: 20px;
+}
+button{
+    margin-left: 100px;
+    margin-top: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+}
